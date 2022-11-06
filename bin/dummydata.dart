@@ -3,7 +3,7 @@ import 'rating.dart';
 class DummyData {
   int? id;
   String? title;
-  var price;
+  num? price;
   String? description;
   String? category;
   String? image;

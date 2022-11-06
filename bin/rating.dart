@@ -1,5 +1,5 @@
 class Rating {
-  var rate ;
+  num? rate ;
   int?count ;
 
   Rating.fromMap(Map <String, dynamic> map) {
